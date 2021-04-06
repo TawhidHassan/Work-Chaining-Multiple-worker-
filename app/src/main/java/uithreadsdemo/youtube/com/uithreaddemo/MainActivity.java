@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private TextView textViewthreadCount;
     int count = 0;
 
-    private MyIntentService myService;
+
     private boolean isServiceBound;
     private ServiceConnection  serviceConnection;
 
